@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\School_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\School_Library.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\School_Library.AssemblyInfo.cs
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\School_Library.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\School_Library.sourcelink.json
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\bin\Debug\net8.0\School_Library.exe
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\bin\Debug\net8.0\School_Library.deps.json
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\bin\Debug\net8.0\School_Library.runtimeconfig.json
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\bin\Debug\net8.0\School_Library.dll
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\bin\Debug\net8.0\School_Library.pdb
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\School_Library.dll
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\refint\School_Library.dll
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\School_Library.pdb
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\School_Library.genruntimeconfig.cache
+C:\Users\USER\Desktop\Assignment_Collab\School_Library\obj\Debug\net8.0\ref\School_Library.dll
