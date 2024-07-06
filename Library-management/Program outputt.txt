@@ -1,0 +1,112 @@
+OUTPUT FOR GROUP_2 COLLABORATION
+
+Enter Username: Admin
+Enter Passcode: 00123
+Hello, Welcome! to your
+Library Management System
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. View Available Books
+5. Exit
+Choose an option: 4
+No items are available.
+Hello, Welcome! to your
+Library Management System
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. View Available Books
+5. Exit
+Choose an option: 1
+Enter book title: Purple Hibiscus
+Enter book author: Chimananda
+Enter book ISBN: 091-023
+Book added to the library.
+Hello, Welcome! to your
+Library Management System
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. View Available Books
+5. Exit
+Choose an option: 1
+Enter book title: Things fall apart
+Enter book author: Chinua Achebe
+Enter book ISBN: 022-012
+Book added to the library.
+Hello, Welcome! to your
+Library Management System
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. View Available Books
+5. Exit
+Choose an option: 2
+Enter book ISBN to borrow: 022-012
+Book 'Things fall apart' has been borrowed.
+Hello, Welcome! to your
+Library Management System
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. View Available Books
+5. Exit
+Choose an option: 4
+Available Items:
+
+Title: Purple Hibiscus,
+Author: Chimananda,
+ISBN: 091-023,
+Borrowed: False
+Hello, Welcome! to your
+Library Management System
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. View Available Books
+5. Exit
+Choose an option: 3
+Enter book ISBN to return: 012-022
+Book not found.
+Hello, Welcome! to your
+Library Management System
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. View Available Books
+5. Exit
+Choose an option: 3
+Enter book ISBN to return: 022-012
+Book 'Things fall apart' has been returned.
+Hello, Welcome! to your
+Library Management System
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. View Available Books
+5. Exit
+Choose an option: 4
+Available Items:
+
+Title: Purple Hibiscus,
+Author: Chimananda,
+ISBN: 091-023,
+Borrowed: False
+
+Title: Things fall apart,
+Author: Chinua Achebe,
+ISBN: 022-012,
+Borrowed: False
+Hello, Welcome! to your
+Library Management System
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. View Available Books
+5. Exit
+Choose an option:
+
+
+
+
