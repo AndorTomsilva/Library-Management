@@ -6,23 +6,34 @@ using System.Threading.Tasks;
 
 namespace School_Library
 {
+    // Represents a user of the library system.
     public class User
     {
-        public string Name { get; set; }
+        // Properties
+        public string UserName { get; set; } // User's name
+        public int Passcode { get; set; } // Unique identifier for the user
 
-        public User(string name)
+        // Constructor
+        public User(string userName, int passcode)
         {
-            Name = name;
+            UserName = userName;
+            Passcode = passcode;
+        }
+        public bool IsValid()
+        {
+            return UserName == "Admin" && Passcode == 00123;
+        }
+    
+    // Method to borrow an item from the library
+    public void BorrowItem<T>(Library<T> library, Func<T, bool> predicate)
+        {
+            library.BorrowItem(predicate); // Call BorrowItem method of the Library<T> class
         }
 
-        public void BorrowItem<T>(Library<T> library, Func<T, bool> predicate)
-        {
-            library.BorrowItem(predicate);
-        }
-
+        // Method to return an item to the library
         public void ReturnItem<T>(Library<T> library, Func<T, bool> predicate)
         {
-            library.ReturnItem(predicate);
+            library.ReturnItem(predicate); // Call ReturnItem method of the Library<T> class
         }
     }
 }

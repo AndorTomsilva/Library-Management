@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\School_Library.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Library-Management\\Library-management\\School_Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\School_Library.csproj": {
+    "C:\\Users\\HP\\Desktop\\Library-Management\\Library-management\\School_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\School_Library.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Library-Management\\Library-management\\School_Library.csproj",
         "projectName": "School_Library",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\School_Library.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Library-Management\\Library-management\\School_Library.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Library-Management\\Library-management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
